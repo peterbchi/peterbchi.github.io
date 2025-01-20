@@ -3,11 +3,11 @@
 title: 吳健雄
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Peter Chi
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Peter
+last_name: Chi
 
 # Status emoji
 status:
