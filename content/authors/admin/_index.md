@@ -1,12 +1,12 @@
 ---
 # Display name
-title: 吳健雄
+title: 紀乃民
 
 # Name pronunciation (optional)
-name_pronunciation: Peter Chi
+name_pronunciation: Peter B. Chi
 
 # Full name (for SEO)
-first_name: Peter
+first_name: Peter B.
 last_name: Chi
 
 # Status emoji
@@ -20,12 +20,12 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Visiting Associate Professor
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: UC Santa Barbara
+    url: https://www.pstat.ucsb.edu/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
