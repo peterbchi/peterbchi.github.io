@@ -24,7 +24,8 @@ role: Visiting Associate Professor
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Department of Statistics and Applied Probability <br /> UC Santa Barbara
+  - name: Department of Statistics and Applied Probability
+  - name: UC Santa Barbara
     url: https://www.pstat.ucsb.edu/
 
 # Social network links
