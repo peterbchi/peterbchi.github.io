@@ -24,7 +24,7 @@ role: Visiting Associate Professor
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: UC Santa Barbara
+  - name: Department of Statistics and Applied Probability <br> UC Santa Barbara
     url: https://www.pstat.ucsb.edu/
 
 # Social network links
@@ -47,13 +47,13 @@ profiles:
     url: https://orcid.org/
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Statistical Phylogenetics
+  - Statistics and Data Science Education
+  - Statistics of Casino Games
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
+  - area: PhD Biostatistics
+    institution: University of Washington
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
@@ -61,8 +61,8 @@ education:
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - area: MHS Genetic Epidemiology
+    institution: Johns Hopkins Bloomberg School of Public Health
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
@@ -72,8 +72,8 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - area: BS Cell/Molecular Biology
+    institution: University of Michigan
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
