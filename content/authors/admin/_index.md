@@ -11,7 +11,7 @@ last_name: Chi
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 
 
 # Is this the primary user of the site?
 superuser: true
@@ -25,6 +25,7 @@ role: Visiting Associate Professor
 # Organizations/Affiliations to display in Biography blox
 organizations:
   - name: Department of Statistics and Applied Probability
+    url: https://www.pstat.ucsb.edu/
   - name: UC Santa Barbara
     url: https://www.pstat.ucsb.edu/
 
@@ -184,4 +185,4 @@ awards:
 
 ## About Me
 
-I am a Visiting Associate Professor in the Department of Statistics and Applied Probability at University of California, Santa Barbara. Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a Visiting Associate Professor in the Department of Statistics and Applied Probability at University of California, Santa Barbara. I am currently on a leave of absence from the Department of Mathematics and Statistics at Villanova University for 2024-2025. [This page is currently still under construction].
