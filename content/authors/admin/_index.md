@@ -50,7 +50,7 @@ profiles:
 
 interests:
   - Statistical Phylogenetics
-  - Statistics and Data Science Education
+  - Statistics Education
   - Statistics of Casino Games
 
 education:
@@ -59,7 +59,7 @@ education:
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      Dissertation: _Problems in Pedigrees and Phylogenies_. Supervised by [Dr. Volodymyr Minin](https://www.stat.uci.edu/faculty/vladimir-minin/). A version of one chapter won a runner-up award in the Student Paper Competition at the [WNAR conference](https://wnarofibs.wildapricot.org/), and was published in PeerJ ([Chi et al. 2014])(https://peerj.com/articles/373/).
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
@@ -146,10 +146,12 @@ skills:
 languages:
   - name: English
     percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
+  - name: Mandarin Chinese
+    percent: 33
+  - name: Taiwanese
     percent: 25
+  - name: French
+    percent: 15
 
 # Awards.
 #   Add/remove as many awards below as you like.
