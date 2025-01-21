@@ -56,8 +56,7 @@ interests:
 education:
   - area: PhD Biostatistics
     institution: University of Washington
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_end: 2013-06-01
     summary: |
       Dissertation: _Problems in Pedigrees and Phylogenies_. Supervised by [Dr. Volodymyr Minin](https://www.stat.uci.edu/faculty/vladimir-minin/). A version of one chapter won a runner-up award in the Student Paper Competition at the [WNAR conference](https://wnarofibs.wildapricot.org/), and was published in PeerJ ([Chi et al. 2014](https://peerj.com/articles/373/)).
     button:
