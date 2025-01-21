@@ -1,9 +1,9 @@
 ---
 # Display name
-title: Peter B. Chi
+title: Peter B. Chi 紀乃民
 
 # Name pronunciation (optional)
-name_pronunciation: 紀乃民
+name_pronunciation: 
 
 # Full name (for SEO)
 first_name: Peter
