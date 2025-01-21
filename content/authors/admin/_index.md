@@ -45,7 +45,7 @@ profiles:
     url: https://www.linkedin.com/in/peterbchi
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=rm5nPsQAAAAJ&hl=en
-  - icon: assets/media/icons/blogger.svg
+  - icon: blogger.svg
     url: https://peterchipoker.blogspot.com/
 
 interests:
