@@ -1,12 +1,12 @@
 ---
 # Display name
-title: 紀乃民
+title: Peter B. Chi
 
 # Name pronunciation (optional)
-name_pronunciation: Peter B. Chi
+name_pronunciation: 紀乃民
 
 # Full name (for SEO)
-first_name: Peter B.
+first_name: Peter
 last_name: Chi
 
 # Status emoji
