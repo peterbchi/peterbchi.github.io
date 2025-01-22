@@ -9,7 +9,6 @@ publishDate: '2025-01-21T19:13:36.225659Z'
 publication_types:
 - article-journal
 publication: '*UNLV Gaming Research & Review Journal*'
----
 
 featured: true
 
@@ -19,3 +18,5 @@ image:
   caption: 'Image credit: [**istockphoto**](https://www.istockphoto.com/photo/shuffling-cards-gm1056000900-282207478)'
   focal_point: ""
   preview_only: false
+
+---
