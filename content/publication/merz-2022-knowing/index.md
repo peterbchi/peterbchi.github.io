@@ -10,3 +10,12 @@ publication_types:
 - article-journal
 publication: '*UNLV Gaming Research & Review Journal*'
 ---
+
+featured: true
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder. 
+image:
+  caption: 'Image credit: [**istockphoto**](https://www.istockphoto.com/photo/shuffling-cards-gm1056000900-282207478)'
+  focal_point: ""
+  preview_only: false

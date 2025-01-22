@@ -35,11 +35,11 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+        My training is primarily in statistical genetics and evolutionary biology, which has centered the majority of my research around statistical phylogenetics. 
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
+        Most recently, I have developed new scholarly directions in statistical explorations around the game of poker, in particular with regard to how different card shuffling approaches can impact the game. See one of my "Featured Publications" below for more detail. 
+
         
-        Please reach out to collaborate 😃
     design:
       columns: '1'
   - block: collection
