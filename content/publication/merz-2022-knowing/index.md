@@ -10,6 +10,12 @@ publication_types:
 - article-journal
 publication: '*UNLV Gaming Research & Review Journal*'
 
+# Summary. An optional shortened abstract.
+summary: In this work, we demonstrate that the standard approach to manual card shuffling in casinos worldwide does not adequately randomize the order of the cards, with specific tangible implications on the game of Texas Hold'em. 
+
+tags:
+- Statistics of Casino Games
+
 featured: true
 
 # Featured image
