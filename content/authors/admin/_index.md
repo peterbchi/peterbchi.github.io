@@ -35,8 +35,8 @@ profiles:
   - icon: at-symbol
     url: 'mailto:peterchi@ucsb.edu'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/PeterBChi
+  - icon: "custom/bluesky"
+    url: https://bsky.app/profile/peterbchi.bsky.social
   - icon: brands/instagram
     url: https://www.instagram.com/peterbchi
   - icon: brands/github
@@ -186,4 +186,8 @@ awards:
 
 ## About Me
 
-I am a Visiting Associate Professor in the Department of Statistics and Applied Probability at University of California, Santa Barbara. I am currently on a leave of absence from the Department of Mathematics and Statistics at Villanova University for 2024-2025. [This page is currently still under construction].
+I am a Visiting Associate Professor in the Department of Statistics and Applied Probability at University of California, Santa Barbara. 
+
+I am currently on a leave of absence from the Department of Mathematics and Statistics at Villanova University for 2024-2025. 
+
+[This page is currently still under construction].
