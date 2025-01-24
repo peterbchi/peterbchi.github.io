@@ -61,10 +61,10 @@ education:
       Dissertation: _Problems in Pedigrees and Phylogenies_. Supervised by [Dr. Volodymyr Minin](https://www.stat.uci.edu/faculty/vladimir-minin/). A version of one chapter won a runner-up award in the Student Paper Competition at the [WNAR conference](https://wnarofibs.wildapricot.org/), and was published in PeerJ ([Chi et al. 2014](https://peerj.com/articles/373/)).
   - area: MHS Genetic Epidemiology
     institution: Johns Hopkins Bloomberg School of Public Health
-    date_end: 2006-5-01
+    date_end: 2006-05-01
   - area: BS Cell/Molecular Biology
     institution: University of Michigan
-    date_end: 2003-5-01
+    date_end: 2003-05-01
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
