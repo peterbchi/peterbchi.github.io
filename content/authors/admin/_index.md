@@ -62,12 +62,15 @@ education:
   - area: MHS Genetic Epidemiology
     institution: Johns Hopkins Bloomberg School of Public Health
     date_end: 2006-05-01
+    summary: |
+      Thesis: I forget the actual title of my Master's Thesis, but a polished version of it was published in Genetic Epidemiology ([Chi et al. 2006](https://onlinelibrary.wiley.com/doi/epdf/10.1002/gepi.20172)).
   - area: BS Cell/Molecular Biology
     institution: University of Michigan
     date_end: 2003-05-01
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: Visiting Associate Professor
+    company_name: Department of Statistics and Applied Probability
+    company_name: UC Santa Barbara
     company_url: ''
     company_logo: ''
     date_start: 2021-01-01
