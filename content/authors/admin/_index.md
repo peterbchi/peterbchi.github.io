@@ -56,34 +56,15 @@ interests:
 education:
   - area: PhD Biostatistics
     institution: University of Washington
-    date_end: 2013-06-01
+    date_end: 2013-03-15
     summary: |
       Dissertation: _Problems in Pedigrees and Phylogenies_. Supervised by [Dr. Volodymyr Minin](https://www.stat.uci.edu/faculty/vladimir-minin/). A version of one chapter won a runner-up award in the Student Paper Competition at the [WNAR conference](https://wnarofibs.wildapricot.org/), and was published in PeerJ ([Chi et al. 2014](https://peerj.com/articles/373/)).
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
   - area: MHS Genetic Epidemiology
     institution: Johns Hopkins Bloomberg School of Public Health
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.8/4.0
-
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    date_end: 2006-5-01
   - area: BS Cell/Molecular Biology
     institution: University of Michigan
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    date_end: 2003-5-01
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
