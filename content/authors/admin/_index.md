@@ -63,10 +63,12 @@ education:
     institution: Johns Hopkins Bloomberg School of Public Health
     date_end: 2006-05-01
     summary: |
-      Thesis: I forget the actual title of my Master's Thesis, but it was supervised by [Dr. Dani Fallin](https://sph.emory.edu/faculty/profile/index.php?FID=m.%20daniele-fallin-13081), and a polished version of it was published in Genetic Epidemiology ([Chi et al. 2006](https://onlinelibrary.wiley.com/doi/epdf/10.1002/gepi.20172)).
+      Thesis: _Comparison of SNP tagging methods using empirical data_. Supervised by [Dr. Dani Fallin](https://sph.emory.edu/faculty/profile/index.php?FID=m.%20daniele-fallin-13081), and a polished version of it was published in Genetic Epidemiology ([Chi et al. 2006](https://onlinelibrary.wiley.com/doi/epdf/10.1002/gepi.20172)).
   - area: BS Cell/Molecular Biology
     institution: University of Michigan
     date_end: 2003-05-01
+    summary: |
+      Honors Thesis: _Characterization of the rat P2X4 receptor protein through molecular and electrophysiological techniques_. Supervised by [Dr. Rich Hume](https://lsa.umich.edu/mcdb/people/faculty/rhume.html). 
 work:
   - position: Visiting Associate Professor
     company_name: Department of Statistics and Applied Probability
