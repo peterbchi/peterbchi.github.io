@@ -63,7 +63,7 @@ education:
     institution: Johns Hopkins Bloomberg School of Public Health
     date_end: 2006-05-01
     summary: |
-      Thesis: _Comparison of SNP tagging methods using empirical data_. Supervised by [Dr. Dani Fallin](https://sph.emory.edu/faculty/profile/index.php?FID=m.%20daniele-fallin-13081), and a polished version of it was published in Genetic Epidemiology ([Chi et al. 2006](https://onlinelibrary.wiley.com/doi/epdf/10.1002/gepi.20172)).
+      Thesis: _Comparison of SNP tagging methods using empirical data_. Supervised by [Dr. Dani Fallin](https://sph.emory.edu/faculty/profile/index.php?FID=m.%20daniele-fallin-13081). A revised version of it was published in Genetic Epidemiology ([Chi et al. 2006](https://onlinelibrary.wiley.com/doi/epdf/10.1002/gepi.20172)).
   - area: BS Cell/Molecular Biology
     institution: University of Michigan
     date_end: 2003-05-01
