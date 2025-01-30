@@ -72,7 +72,9 @@ education:
 work:
   - position: Visiting Associate Professor
     company_name: |
-      Department of Statistics and Applied Probability\s\s
+      Department of Statistics and Applied Probability
+      &nbsp;
+      &nbsp;
       UC Santa Barbara
     company_url: ''
     company_logo: ''
