@@ -71,9 +71,9 @@ education:
       Honors Thesis: _Characterization of the rat P2X4 receptor protein through molecular and electrophysiological techniques_. Supervised by [Dr. Rich Hume](https://lsa.umich.edu/mcdb/people/faculty/rhume.html). 
 work:
   - position: Visiting Associate Professor
-    company_name: Department of Statistics and Applied Probability
+    company_name: Department of Statistics and Applied Probability <br/><br/> UC Santa Barbara
     company_url: ''
-    company_logo: UC Santa Barbara
+    company_logo: ''
     date_start: 2024-07-01
     date_end: ''
   - position: Associate Professor
