@@ -72,20 +72,14 @@ education:
 work:
   - position: Visiting Associate Professor
     company_name: |
-      Department of Statistics and Applied Probability
-      
+      Department of Statistics and Applied Probability \n
       UC Santa Barbara
     company_url: ''
     company_logo: ''
     date_start: 2024-07-01
     date_end: ''
-    summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
+  - position: Associate Professor
+    company_name: 
     company_url: ''
     company_logo: ''
     date_start: 2016-01-01
