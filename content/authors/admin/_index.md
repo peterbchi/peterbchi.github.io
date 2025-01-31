@@ -1,4 +1,7 @@
 ---
+[blackfriday]
+  extensions = ["hardLineBreak"]
+
 # Display name
 title: Peter B. Chi 紀乃民
 
