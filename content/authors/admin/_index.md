@@ -71,22 +71,36 @@ education:
       Honors Thesis: _Characterization of the rat P2X4 receptor protein through molecular and electrophysiological techniques_. Supervised by [Dr. Rich Hume](https://lsa.umich.edu/mcdb/people/faculty/rhume.html). 
 work:
   - position: Visiting Associate Professor
-    company_name: Department of Statistics and Applied Probability <div style="line-height:20%;"><br></div> UC Santa Barbara
+    company_name: Department of Statistics and Applied Probability <div style="line-height:20%;"><br></div> University of California, Santa Barbara
     company_url: ''
     company_logo: ''
     date_start: 2024-07-01
     date_end: ''
   - position: Associate Professor
-    company_name: 
+    company_name: Department of Mathematics and Statistics <div style="line-height:20%;"><br></div> Villanova University
     company_url: ''
     company_logo: ''
     date_start: 2023-09-01
-    date_end: 2025-08-31
-    summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    date_end: 2024-08-31
+  - position: Assistant Professor
+    company_name: Department of Mathematics and Statistics <div style="line-height:20%;"><br></div> Villanova University
+    company_url: ''
+    company_logo: ''
+    date_start: 2018-09-01
+    date_end: 2023-08-31    
+  - position: Assistant Professor
+    company_name: Department of Mathematics and Computer Science <div style="line-height:20%;"><br></div> Ursinus College
+    company_url: ''
+    company_logo: ''
+    date_start: 2015-08-01
+    date_end: 2018-08-31
+  - position: Assistant Professor
+    company_name: Department of Statistics <div style="line-height:20%;"><br></div> California Polytechnic State University, San Luis Obispo
+    company_url: ''
+    company_logo: ''
+    date_start: 2013-04-01
+    date_end: 2015-08-31
+
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
