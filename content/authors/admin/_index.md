@@ -80,14 +80,14 @@ work:
     company_name: Department of Mathematics and Statistics <div style="line-height:20%;"><br></div> Villanova University
     company_url: ''
     company_logo: ''
-    date_start: 2023-09-01
+    date_start: 2022-09-01
     date_end: 2024-08-31
   - position: Assistant Professor
     company_name: Department of Mathematics and Statistics <div style="line-height:20%;"><br></div> Villanova University
     company_url: ''
     company_logo: ''
     date_start: 2018-09-01
-    date_end: 2023-08-31    
+    date_end: 2022-08-31    
   - position: Assistant Professor
     company_name: Department of Mathematics and Computer Science <div style="line-height:20%;"><br></div> Ursinus College
     company_url: ''
