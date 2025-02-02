@@ -111,8 +111,6 @@ languages:
     percent: 25
   - name: French
     percent: 15
-
-
 ---
 
 ## About Me
