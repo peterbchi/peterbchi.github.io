@@ -70,14 +70,14 @@ education:
     summary: |
       Honors Thesis: _Characterization of the rat P2X4 receptor protein through molecular and electrophysiological techniques_. Supervised by [Dr. Rich Hume](https://lsa.umich.edu/mcdb/people/faculty/rhume.html). 
 work:
-  - position: Visiting Associate Professor
-    company_name: Department of Statistics and Applied Probability <div style="line-height:20%;"><br></div> University of California, Santa Barbara
+  - position: University of California, Santa Barbara
+    company_name: Department of Statistics and Applied Probability <div style="line-height:20%;"><br></div> Visiting Associate Professor 
     company_url: ''
     company_logo: ''
     date_start: 2024-07-01
     date_end: ''
-  - position: Associate Professor
-    company_name: Department of Mathematics and Statistics <div style="line-height:20%;"><br></div> Villanova University
+  - position: Villanova University
+    company_name: Department of Mathematics and Statistics <div style="line-height:20%;"><br></div> Associate Professor 
     company_url: ''
     company_logo: ''
     date_start: 2022-09-01
@@ -88,14 +88,14 @@ work:
     company_logo: ''
     date_start: 2018-09-01
     date_end: 2022-08-31    
-  - position: Assistant Professor
-    company_name: Department of Mathematics and Computer Science <div style="line-height:20%;"><br></div> Ursinus College
+  - position: Ursinus College
+    company_name: Department of Mathematics and Computer Science <div style="line-height:20%;"><br></div> Assistant Professor
     company_url: ''
     company_logo: ''
     date_start: 2015-08-01
     date_end: 2018-08-31
-  - position: Assistant Professor
-    company_name: Department of Statistics <div style="line-height:20%;"><br></div> California Polytechnic State University, San Luis Obispo
+  - position: California Polytechnic State University, San Luis Obispo
+    company_name: Department of Statistics <div style="line-height:20%;"><br></div> Assistant Professor
     company_url: ''
     company_logo: ''
     date_start: 2013-04-01
