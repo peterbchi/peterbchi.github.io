@@ -3,6 +3,8 @@ title = "Teaching"
 date = "2025-02-03"
 +++
 
+Something about my teaching philosophy here. Below is a list of courses that I have taught. 
+
 ### University of California, Santa Barbara
 
  - PSTAT 122: Design and Analysis of Experiments
