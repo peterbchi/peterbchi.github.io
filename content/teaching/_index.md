@@ -1,7 +1,10 @@
----
-title: Teaching
----
++++
+title = "My CV"
+date = "2025-02-03"
++++
 
-# Teaching
+<div style="text-align: left;">
+    This text will be left-aligned within this section of the page.
+</div>
 
-Testing, is this going to work?
+This is some regular Markdown text that will follow the default alignment.
