@@ -34,7 +34,7 @@ ___
 
 
 ___
-### Cal Poly, SLO
+### California Polytechnic State University, San Luis Obispo
 
  - STAT 218: Applied Statistics for the Life Sciences
  - STAT 251: Statistical Inference for Management
