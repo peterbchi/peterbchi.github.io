@@ -3,12 +3,11 @@ title = "Teaching"
 date = "2025-02-03"
 +++
 
-## University of California, Santa Barbara
+### University of California, Santa Barbara
 
  - PSTAT 122: Design and Analysis of Experiments
   
-## Villanova University
+### Villanova University
 
- - STAT 5700
+ - STAT 5700: Probability Theory
 
-This is some regular Markdown text that will follow the default alignment.
