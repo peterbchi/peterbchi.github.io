@@ -3,10 +3,12 @@ title = "Teaching"
 date = "2025-02-03"
 +++
 
-<div style="text-align: left;">
-    ## Villanova University
+## University of California, Santa Barbara
 
-    ### STAT 5700
-</div>
+ - PSTAT 122: Design and Analysis of Experiments
+  
+## Villanova University
+
+ - STAT 5700
 
 This is some regular Markdown text that will follow the default alignment.
