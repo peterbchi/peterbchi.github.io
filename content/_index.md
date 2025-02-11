@@ -30,12 +30,7 @@ sections:
           size: cover
           position: center
           parallax: false
-  - block: markdown
 
-
-        
-    design:
-      columns: '1'
   - block: collection
     id: papers
     content:
