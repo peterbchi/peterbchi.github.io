@@ -31,13 +31,7 @@ sections:
           position: center
           parallax: false
   - block: markdown
-    content:
-      title: '📚 My Research'
-      subtitle: ''
-      text: |-
-        My training is primarily in statistical genetics and evolutionary biology, which has centered the majority of my research around statistical phylogenetics. 
 
-        Most recently, I have developed new scholarly directions in statistical explorations around the game of poker, in particular with regard to how different card shuffling approaches can impact the game. See one of my "Featured Publications" below for more detail. 
 
         
     design:
