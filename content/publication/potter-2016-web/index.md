@@ -12,10 +12,10 @@ publication_types:
 - article-journal
 publication: '*Technology Innovations in Statistics Education*'
 
-abstract: This paper is the first ever peer-reviewed journal article to illustrate the usage of R Shiny applets in statistics courses, and demonstrated that they are much more easily customizable for most statistics educators, as compared to applets built under other platforms such as Java. 
+abstract: This paper was the first ever peer-reviewed journal article to illustrate the usage of R Shiny applets in statistics courses, and demonstrated that they are much more easily customizable for most statistics educators, as compared to applets built under other platforms such as Java. Originally built by our Cal Poly team of three faculty and two undergraduate students, the applets are accessible at ([https://statistics.calpoly.edu/shiny](https://statistics.calpoly.edu/shiny)) 
 
 # Summary. An optional shortened abstract.
-summary: This paper is the first ever peer-reviewed journal article to illustrate the usage of R Shiny applets in statistics courses, and demonstrated that they are much more easily customizable for most statistics educators, as compared to applets built under other platforms such as Java. 
+summary: This paper was the first ever peer-reviewed journal article to illustrate the usage of R Shiny applets in statistics courses, and demonstrated that they are much more easily customizable for most statistics educators, as compared to applets built under other platforms such as Java. Originally built by our Cal Poly team of three faculty and two undergraduate students, the applets are accessible at ([https://statistics.calpoly.edu/shiny](https://statistics.calpoly.edu/shiny))
 
 tags:
 - Statistics Education
