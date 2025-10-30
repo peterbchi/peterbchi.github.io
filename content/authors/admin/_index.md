@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Visiting Associate Professor
+role: Associate Teaching Professor
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
