@@ -26,7 +26,7 @@ role: Associate Teaching Professor
 organizations:
   - name: Halıcıoğlu Data Science Institute
     url: https://datascience.ucsd.edu/
-  - name: UC San Diego
+  - name: University of California, San Diego
     url: https://datascience.ucsd.edu/
 
 # Social network links
