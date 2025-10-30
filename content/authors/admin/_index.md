@@ -24,10 +24,10 @@ role: Associate Teaching Professor
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Department of Statistics and Applied Probability
-    url: https://www.pstat.ucsb.edu/
-  - name: UC Santa Barbara
-    url: https://www.pstat.ucsb.edu/
+  - name: Halıcıoğlu Data Science Institute
+    url: https://datascience.ucsd.edu/
+  - name: UC San Diego
+    url: https://datascience.ucsd.edu/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -115,8 +115,6 @@ languages:
 
 ## About Me
 
-I am a Visiting Associate Professor in the Department of Statistics and Applied Probability at University of California, Santa Barbara. 
-
-I am currently on a leave of absence from the Department of Mathematics and Statistics at Villanova University for 2024-2025. 
+I recently joined the Halıcıoğlu Data Science Institute as an Associate Teaching Professor in 2025. 
 
 [This page is currently still under construction].
