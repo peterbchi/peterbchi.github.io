@@ -115,6 +115,6 @@ languages:
 
 ## About Me
 
-I recently joined the Halıcıoğlu Data Science Institute as an Associate Teaching Professor in 2025. 
+I recently joined the Halıcıoğlu Data Science Institute at UC San Diego as an Associate Teaching Professor in 2025. 
 
 [This page is currently still under construction].
